@@ -1,0 +1,17 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Introduction to Git and GitHub\r\n\r\n## Simple Interest Calculator\r\n\r\nA calculator that calculates simple interest given principal, annual rate of interest and time period in years.\r\n\r\n```\r\nInput:\r\n   p, principal amount\r\n   t, time period in years\r\n   r, annual rate of interest\r\nOutput\r\n   simple interest = p*t*r\r\n```\r\n\r\n_© 2022 XYZ, Inc._ \r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	
++++ b/README.md	
+@@ -12,5 +12,4 @@
+ Output
+    simple interest = p*t*r
+ ```
+-
+-_© 2022 XYZ, Inc._ 
++2023 XYZ, Inc.
